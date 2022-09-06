@@ -24,3 +24,6 @@
   - About
   - Destination URL
   - Select Category
+- Saving pins from homepage.
+- View user profile.
+- View pins created and saved by users. 
