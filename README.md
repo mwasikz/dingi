@@ -18,6 +18,7 @@
 ### Features
 - Authentication with Google OAUTH.
 - Homepage Containing recently uploaded pins by users.
+- Fully mobile responsive.
 - Search any pin by category or search terms.
 - Upload an 'Pin', which is an image together with:
   - A Title
