@@ -30,3 +30,7 @@
 - Similar pins as recommendation.
 - Leave comments on user pins.
 - View pins created and saved by users. 
+
+### :orange_circle: Tech Stack
+
+<img src="https://github.com/mwasikz/dingi/blob/main/readme_assets/ReactJS.png" width="200">
