@@ -1,6 +1,6 @@
 ## Dingi | Image Sharing Social Media Application
-### Pages
-#### :orange_circle: Login 
+### :orange_circle: Pages
+#### Login 
 <img src="https://user-images.githubusercontent.com/74035623/172039620-eb7db67f-522b-4a9e-8d0a-e3c33d21b13a.png" width="1000" >
 
 #### :orange_circle: Homepage
@@ -15,7 +15,7 @@
 #### :orange_circle: Create Pin
 <img src="https://user-images.githubusercontent.com/74035623/172039659-35b786d4-cfd3-4f20-8baf-c328c5ed93d0.png" width="1000">
 
-### Features
+### :orange_circle: Features
 - Authentication with Google OAUTH.
 - Homepage Containing recently uploaded pins by users.
 - Fully mobile responsive.
