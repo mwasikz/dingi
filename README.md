@@ -37,3 +37,8 @@
   <img src="https://github.com/mwasikz/dingi/blob/main/readme_assets/Tailwind.png" width="200">
   <img src="https://github.com/mwasikz/dingi/blob/main/readme_assets/Sanity.png" width="200">
 </p>
+
+### :orange_circle: How to Run
+- Clone this repository by `git clone https://github.com/mwasikz/dingi.git `
+- Install the dependencies using `npm install`
+- Run `npm start`
