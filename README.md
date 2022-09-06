@@ -19,4 +19,8 @@
 - Authentication with Google OAUTH.
 - Homepage Containing recently uploaded pins by users.
 - Search any pin by category or search terms.
-- Upload an 'Pin', which is an image together with - A title
+- Upload an 'Pin', which is an image together with:
+  - A Title
+  - About
+  - Destination URL
+  - Select Category
