@@ -5,7 +5,7 @@
 
 #### Homepage
 ![Homepage](https://user-images.githubusercontent.com/74035623/172039629-b18d9266-aca9-4fe3-86fc-1c1a9403f004.PNG)
-<img src="https://user-images.githubusercontent.com/74035623/172039629-b18d9266-aca9-4fe3-86fc-1c1a9403f004.png" width="800">
+<img src="https://user-images.githubusercontent.com/74035623/172039629-b18d9266-aca9-4fe3-86fc-1c1a9403f004.PNG" width="800">
 
 #### Search
 ![Search](https://user-images.githubusercontent.com/74035623/172039645-0198c196-7ead-4677-82df-3174dda5b6f4.png)
