@@ -26,4 +26,5 @@
   - Select Category
 - Saving pins from homepage.
 - View user profile.
+- Leave comments on user pins.
 - View pins created and saved by users. 
