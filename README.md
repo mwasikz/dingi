@@ -1,14 +1,5 @@
 # Dingi | Image Sharing Social Media Application
-
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-
+## Pages
 ## Login 
 ![Login](https://user-images.githubusercontent.com/74035623/172039620-eb7db67f-522b-4a9e-8d0a-e3c33d21b13a.png)
 
