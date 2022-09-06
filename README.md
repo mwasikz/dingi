@@ -1,7 +1,7 @@
 ## Dingi | Image Sharing Social Media Application
 ### Pages
 #### Login 
-<img src="https://user-images.githubusercontent.com/74035623/172039620-eb7db67f-522b-4a9e-8d0a-e3c33d21b13a.png" width="500" >
+<img src="https://user-images.githubusercontent.com/74035623/172039620-eb7db67f-522b-4a9e-8d0a-e3c33d21b13a.png" width="800" >
 
 #### Homepage
 ![Homepage](https://user-images.githubusercontent.com/74035623/172039629-b18d9266-aca9-4fe3-86fc-1c1a9403f004.PNG)
