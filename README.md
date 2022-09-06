@@ -15,3 +15,6 @@
 #### Create Pin
 <img src="https://user-images.githubusercontent.com/74035623/172039659-35b786d4-cfd3-4f20-8baf-c328c5ed93d0.png" width="1000">
 
+### Features
+- Authentication with Google OAUTH
+- 
