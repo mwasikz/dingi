@@ -10,7 +10,7 @@
 <img src="https://user-images.githubusercontent.com/74035623/172039645-0198c196-7ead-4677-82df-3174dda5b6f4.png" width="1000">
 
 #### View
-<img src="https://user-images.githubusercontent.com/74035623/172039652-7ede4c8f-1b8f-461c-8543-2a62dd2f7564.png" width="1000">
+<img src="https://github.com/mwasikz/dingi/blob/main/readme_assets/dingi_image_expand.png" width="1000">
 
 #### Create Pin
 <img src="https://user-images.githubusercontent.com/74035623/172039659-35b786d4-cfd3-4f20-8baf-c328c5ed93d0.png" width="1000">
