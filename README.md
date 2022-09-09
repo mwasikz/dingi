@@ -1,4 +1,4 @@
-## Dingi | Image Sharing Social Media Application
+## Dingi | Full Stack Image Sharing Social Media Application
 ### :orange_circle: Pages
 #### Login 
 <img src="https://user-images.githubusercontent.com/74035623/172039620-eb7db67f-522b-4a9e-8d0a-e3c33d21b13a.png" width="1000" >
