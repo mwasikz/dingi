@@ -20,7 +20,7 @@
 - Homepage containing recently uploaded pins by users.
 - Fully mobile responsive.
 - Search any pin by category or search terms.
-- Upload an 'Pin', which is an image together with:
+- Upload a 'Pin', which is an image consists of:
   - A Title
   - About
   - Destination URL
